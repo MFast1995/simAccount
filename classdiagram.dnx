@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.1/notation" xmlns:uml="http://www.eclipse.org/uml2/2.1.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_bv4bseUyEeSlgKB3QIu8xA" type="Class" name="classdiagram.dnx">
+  <eAnnotations xmi:id="_bv4bs-UyEeSlgKB3QIu8xA" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
+    <details xmi:id="_bv5CwOUyEeSlgKB3QIu8xA" key="com.ibm.xtools.activities.javaVisualizerActivity" value="1"/>
+  </eAnnotations>
+  <children xmi:id="_eORJsOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_eOX3YOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_eOX3YeUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_eOX3YuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_eOYecOUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_eOYeceUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_eOZFgOUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eOZFgeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_eOcv4OUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eOdW8OUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_eOdW8eUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eOdW8uUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_eORJseUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eORJsuUyEeSlgKB3QIu8xA" x="56109" y="25677"/>
+  </children>
+  <children xmi:id="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_eh3bIOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_eh3bIeUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_eh3bIuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_eh3bI-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_eh4CMOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_eh4CMeUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eh4CMuUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_eh5QUOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eh5QUeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_eh5QUuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_eh5QU-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_eh20EeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eh20EuUyEeSlgKB3QIu8xA" x="47550" y="22507"/>
+  </children>
+  <children xmi:id="_ex7QYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_ex73cOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_ex73ceUyEeSlgKB3QIu8xA" width="530" height="530"/>
+    </children>
+    <children xmi:id="_ex73cuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_ex73c-UyEeSlgKB3QIu8xA" type="Kind"/>
+    <children xmi:id="_ex73dOUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_ex8egOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_ex9FkOUyEeSlgKB3QIu8xA" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_ex9FkeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_ex9FkuUyEeSlgKB3QIu8xA" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_ex9Fk-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_ex9FlOUyEeSlgKB3QIu8xA" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_ex9FleUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_ex7QYeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ex7QYuUyEeSlgKB3QIu8xA" x="60547" y="14582"/>
+  </children>
+  <children xmi:id="_kctB4OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_kcto8OUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kcto8eUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_kcto8uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_kcuQAOUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_kcuQAeUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_kcuQAuUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kcuQA-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_kcveIOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kcveIeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_kcveIuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kcveI-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_kctB4eUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kctB4uUyEeSlgKB3QIu8xA" x="54207" y="4121"/>
+  </children>
+  <children xmi:id="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_kywKY-UyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_kywKZOUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_kywxcOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_kywxceUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_kywxcuUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_kywxc-UyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kywxdOUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_kyx_kOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kyx_keUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_kyx_kuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_kyx_k-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_kywKYeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kywKYuUyEeSlgKB3QIu8xA" x="45648" y="6340"/>
+  </children>
+  <children xmi:id="_lGOgAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lGOgA-UyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_lGOgBOUyEeSlgKB3QIu8xA" width="530" height="530"/>
+    </children>
+    <children xmi:id="_lGPHEOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_lGPHEeUyEeSlgKB3QIu8xA" type="Kind"/>
+    <children xmi:id="_lGPHEuUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_lGPHE-UyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_lGPuIOUyEeSlgKB3QIu8xA" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lGPuIeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_lGPuIuUyEeSlgKB3QIu8xA" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lGPuI-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_lGPuJOUyEeSlgKB3QIu8xA" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lGPuJeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_lGOgAeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lGOgAuUyEeSlgKB3QIu8xA" x="44063" y="-3170"/>
+  </children>
+  <children xmi:id="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lZO7k-UyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_lZO7lOUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_lZPioOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_lZPioeUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_lZPiouUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_lZPio-UyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lZPipOUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_lZQJsOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lZQJseUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_lZQJsuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lZQJs-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_lZO7keUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lZO7kuUyEeSlgKB3QIu8xA" x="48501" y="1902"/>
+  </children>
+  <children xmi:id="_lqj8IOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lqj8I-UyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_lqj8JOUyEeSlgKB3QIu8xA" width="530" height="530"/>
+    </children>
+    <children xmi:id="_lqkjMOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_lqkjMeUyEeSlgKB3QIu8xA" type="Kind"/>
+    <children xmi:id="_lqkjMuUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_lqkjM-UyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_lqkjNOUyEeSlgKB3QIu8xA" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lqkjNeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_lqkjNuUyEeSlgKB3QIu8xA" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lqkjN-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_lqlKQOUyEeSlgKB3QIu8xA" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_lqlKQeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_lqj8IeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lqj8IuUyEeSlgKB3QIu8xA" x="63083" y="4438"/>
+  </children>
+  <children xmi:id="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_l-ryA-UyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_l-ryBOUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_l-sZEOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_l-sZEeUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_l-sZEuUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_l-sZE-UyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_l-sZFOUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_l-tnMOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_l-tnMeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_l-tnMuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_l-tnM-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_l-ryAeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_l-ryAuUyEeSlgKB3QIu8xA" x="29164" y="25677"/>
+  </children>
+  <children xmi:id="_vGmYwOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vGm_0uUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_vGm_0-UyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_vGm_1OUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_vGm_1eUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_vGm_1uUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_vGnm4OUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_vGnm4eUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_vGoN8OUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_vGoN8eUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_vGo1AOUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_vGo1AeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_vGm_0OUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=Handler%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vGm_0eUyEeSlgKB3QIu8xA" x="19971" y="12363"/>
+  </children>
+  <children xmi:id="_vGo1AuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vGo1BeUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_vGo1BuUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_vGo1B-UyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_vGo1COUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_vGpcEOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_vGpcEeUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_vGpcEuUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_vGqDIOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_vGqDIeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_vGqqMOUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_vGqqMeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_vGo1A-UyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vGo1BOUyEeSlgKB3QIu8xA" x="19971" y="2219"/>
+  </children>
+  <children xmi:id="_xobcUOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xocDYOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_xocDYeUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_xocDYuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_xocDY-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_xocDZOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_xocDZeUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_xocDZuUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_xodRgOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_xodRgeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_xod4kOUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_xod4keUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_xobcUeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xobcUuUyEeSlgKB3QIu8xA" x="11412" y="2219"/>
+  </children>
+  <children xmi:id="_xod4kuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xod4leUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_xod4luUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_xoefoOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_xoefoeUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_xoefouUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_xoefo-UyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_xoefpOUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_xoftwOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_xoftweUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_xogU0OUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_xogU0eUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_xod4k-UyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=HandlerE%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xod4lOUyEeSlgKB3QIu8xA" x="12363" y="12680"/>
+  </children>
+  <children xmi:id="_zMYiYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zMZJcOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_zMZJceUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_zMZJcuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_zMZJc-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_zMZJdOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_zMZwgOUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_zMZwgeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_zMa-oOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_zMa-oeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_zMblsOUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_zMblseUyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_zMYiYeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=HandlerU%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zMYiYuUyEeSlgKB3QIu8xA" x="6023" y="12363"/>
+  </children>
+  <children xmi:id="_zMblsuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zMcMwOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_zMcMweUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_zMcMwuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_zMcMw-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_zMcz0OUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_zMcz0eUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_zMcz0uUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_zMeB8OUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_zMeB8eUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_zMeB8uUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_zMeB8-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_zMbls-UyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zMbltOUyEeSlgKB3QIu8xA" x="5072" y="2219"/>
+  </children>
+  <children xmi:id="_3zjh0OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_3zkI4OUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_3zkI4eUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_3zkI4uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_3zkI4-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_3zkI5OUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_3zkI5eUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_3zkI5uUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_3zlXAOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_3zlXAeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_3zlXAuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_3zlXA-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_3zjh0eUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3zjh0uUyEeSlgKB3QIu8xA" x="-951" y="1902"/>
+  </children>
+  <children xmi:id="_3zlXBOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_3zl-EOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_3zl-EeUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_3zl-EuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_3zl-E-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_3zl-FOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_3zl-FeUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_3zl-FuUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_3znMMOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_3znMMeUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_3znMMuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_3znMM-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_3zlXBeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=HandlerY%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3zlXBuUyEeSlgKB3QIu8xA" x="-317" y="12046"/>
+  </children>
+  <children xmi:id="_9KqJYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9KqwcOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9KqwceUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_9KqwcuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_9Kqwc-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_9KqwdOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_9KqwdeUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9KqwduUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_9Kr-kOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9Kr-keUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_9Kr-kuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9Kr-k-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_9KqJYeUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9KqJYuUyEeSlgKB3QIu8xA" x="-634" y="14899"/>
+  </children>
+  <children xmi:id="_9Kr-lOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9KsloOUyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_9KsloeUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_9KslouUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_9Kslo-UyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_9KslpOUyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_9KslpeUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9KslpuUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_9KtMsOUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9KtMseUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_9KtMsuUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_9KtMs-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_9Kr-leUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=HandlerERR%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Kr-luUyEeSlgKB3QIu8xA" x="-317" y="21239"/>
+  </children>
+  <children xmi:id="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-tIow-UyEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_-tIoxOUyEeSlgKB3QIu8xA" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_-tIoxeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_-tIoxuUyEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_-tIox-UyEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_-tJP0OUyEeSlgKB3QIu8xA" visible="false" type="ANNOTATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-tJP0eUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_-tJ24OUyEeSlgKB3QIu8xA" type="ANNOTATED_ATTRIBUTE_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-tJ24eUyEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_-tJ24uUyEeSlgKB3QIu8xA" type="ANNOTATED_OPERATION_COMPARTMENT">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_-tJ24-UyEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_-tIoweUyEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-tIowuUyEeSlgKB3QIu8xA" x="6657" y="-4121"/>
+  </children>
+  <children xmi:id="_AmmEwOUzEeSlgKB3QIu8xA">
+    <children xmi:id="_AmmEw-UzEeSlgKB3QIu8xA" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_AmmExOUzEeSlgKB3QIu8xA" width="530" height="530"/>
+    </children>
+    <children xmi:id="_AmmExeUzEeSlgKB3QIu8xA" type="Stereotype"/>
+    <children xmi:id="_Ammr0OUzEeSlgKB3QIu8xA" type="Kind"/>
+    <children xmi:id="_Ammr0eUzEeSlgKB3QIu8xA" type="Name"/>
+    <children xmi:id="_Ammr0uUzEeSlgKB3QIu8xA" type="Parent"/>
+    <children xmi:id="_Ammr0-UzEeSlgKB3QIu8xA" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Ammr1OUzEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_Ammr1eUzEeSlgKB3QIu8xA" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Ammr1uUzEeSlgKB3QIu8xA"/>
+    </children>
+    <children xmi:id="_Ammr1-UzEeSlgKB3QIu8xA" visible="false" type="SignalCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_Ammr2OUzEeSlgKB3QIu8xA"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLClassifierStyle" xmi:id="_AmmEweUzEeSlgKB3QIu8xA" fontName="Segoe UI" showStereotype="Label" useClassifierShape="true"/>
+    <element xmi:type="uml:Interface" href="mmi:///#jsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D$uml.Interface"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AmmEwuUzEeSlgKB3QIu8xA" x="16801" y="-4755"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_bv4bsuUyEeSlgKB3QIu8xA"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_ek-ZgOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_eORJsOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_elJYoOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_elJ_sOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_elKmwOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_elJ_seUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_elJYoeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_ek-ZgeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ek-ZguUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_elL04OUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_eORJsOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_elMb8OUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_elNDAOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_elNDAeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_elMb8eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_elL04eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_elL04uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_eyX8UOUyEeSlgKB3QIu8xA" source="_eORJsOUyEeSlgKB3QIu8xA" target="_ex7QYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_eyYjYOUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_eyYjYuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_eyYjY-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eyYjYeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_eyX8UeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_eyX8UuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_k1498OUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_k16MEOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_k16MEuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_k16zIeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_k16zIOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k16MEeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_k1498eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_k1498uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_k17aMOUyEeSlgKB3QIu8xA" source="_kywKYOUyEeSlgKB3QIu8xA" target="_kctB4OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_k18oUOUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_k19PYOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_k19PYeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k18oUeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_k17aMeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_k17aMuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_k192cOUyEeSlgKB3QIu8xA" source="_kywKYOUyEeSlgKB3QIu8xA" target="_kctB4OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_k1-dgOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_k1-dguUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_k1_EkeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_k1_EkOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k1-dgeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_k192ceUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_k192cuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lGXp8OUyEeSlgKB3QIu8xA" source="_eORJsOUyEeSlgKB3QIu8xA" target="_lGOgAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lGXp8-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lGXp9eUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lGXp9-UyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lGXp9uUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lGXp9OUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lGXp8eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lGXp8uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lGYRAOUyEeSlgKB3QIu8xA" source="_ex7QYOUyEeSlgKB3QIu8xA" target="_lGOgAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lGYRA-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lGYRBeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lGYRB-UyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lGYRBuUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lGYRBOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lGYRAeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lGYRAuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lGYRCOUyEeSlgKB3QIu8xA" source="_kctB4OUyEeSlgKB3QIu8xA" target="_lGOgAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lGY4EOUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_lGY4EuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lGY4E-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lGY4EeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lGYRCeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lGYRCuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lcXvIOUyEeSlgKB3QIu8xA" source="_kctB4OUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lcY9QOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lcY9QuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lcZkUeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lcZkUOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lcY9QeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lcYWMOUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lcYWMeUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lcaLYOUyEeSlgKB3QIu8xA" source="_kywKYOUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lcaycOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lcaycuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lcbZgeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lcbZgOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lcayceUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lcaLYeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lcaLYuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lccAkOUyEeSlgKB3QIu8xA" source="_lGOgAOUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lccnoOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lccnouUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lcdOseUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lcdOsOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lccnoeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lccAkeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lccAkuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lqr38OUyEeSlgKB3QIu8xA" source="_kctB4OUyEeSlgKB3QIu8xA" target="_lqj8IOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lqsfAOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lqsfAuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lqsfBOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lqsfA-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lqsfAeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lqr38eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lqr38uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_lqsfBeUyEeSlgKB3QIu8xA" source="_lqj8IOUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_lqsfCOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_lqtGEeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_lqtGE-UyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_lqtGEuUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lqtGEOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_lqsfBuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lqsfB-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_mCZ0YOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_mCbCgOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_mCbpkeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_mCc3seUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_mCc3sOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mCbpkOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_mCZ0YeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mCZ0YuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_mCdewOUyEeSlgKB3QIu8xA" source="_kywKYOUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_mCes4OUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_mCes4uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_mCfT8eUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_mCfT8OUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mCes4eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_mCdeweUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mCdewuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vKlg4OUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_vGo1AuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vKnWEOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vKnWEuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vKokMOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vKn9IOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vKnWEeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKlg4eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKlg4uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vKpLQOUyEeSlgKB3QIu8xA" type="OwnedElement" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_vGmYwOUyEeSlgKB3QIu8xA">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKpLQeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKpLQuUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vR0xVOUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vR1YYOUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_vKqZYOUyEeSlgKB3QIu8xA" source="_vGmYwOUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vKrAcOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vKrngOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vKrnguUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vKrngeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vKrAceUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKqZYeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKqZYuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vKwgAOUyEeSlgKB3QIu8xA" source="_vGmYwOUyEeSlgKB3QIu8xA" target="_vGo1AuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vKxHEOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vKxHEuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vKxHFOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vKxHE-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vKxHEeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKwgAeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKwgAuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 1586]$[0, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vR0xUOUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vR0xUeUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:id="_vKxuIOUyEeSlgKB3QIu8xA" source="_vGmYwOUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vKxuI-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vKxuJeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vKyVMOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vKxuJuUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vKxuJOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKxuIeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKxuIuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vKyVMeUyEeSlgKB3QIu8xA" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vKyVNOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vKy8QOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vKy8QuUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vKy8QeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vKyVNeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKyVMuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKyVM-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vKy8Q-UyEeSlgKB3QIu8xA" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vKzjUOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vKzjUuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vKzjVOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vKzjU-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vKzjUeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKy8ROUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKy8ReUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vKzjVeUyEeSlgKB3QIu8xA" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_vGmYwOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vK0KYOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vK0KYuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vK0KZOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vK0KY-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vK0KYeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vKzjVuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vKzjV-UyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vR0xUuUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vR0xU-UyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_vK0xcOUyEeSlgKB3QIu8xA" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vK0xc-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vK1YgOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vK1YguUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vK1YgeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vK0xdOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vK0xceUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vK0xcuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_vK1_kOUyEeSlgKB3QIu8xA" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_vK1_k-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_vK2moeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_vK2mo-UyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_vK2mouUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vK2moOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_vK1_keUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vK1_kuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xsqcEOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_xobcUOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xsrDIOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xsrDIuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xsrqMOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xsrDI-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xsrDIeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsqcEeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsqcEuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xsrqMeUyEeSlgKB3QIu8xA" type="OwnedElement" source="_xobcUOUyEeSlgKB3QIu8xA" target="_xod4kuUyEeSlgKB3QIu8xA">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsrqMuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsrqM-UyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzEmEOUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzEmEeUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_xssRQOUyEeSlgKB3QIu8xA" source="_xobcUOUyEeSlgKB3QIu8xA" target="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xssRQ-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xss4UOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xss4UuUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xss4UeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xssRROUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xssRQeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xssRQuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xss4U-UyEeSlgKB3QIu8xA" source="_xobcUOUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xstfYOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xstfYuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xsuGcOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xstfY-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xstfYeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xss4VOUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xss4VeUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xsuGceUyEeSlgKB3QIu8xA" source="_xobcUOUyEeSlgKB3QIu8xA" target="_xod4kuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xsutgOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xsutguUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xsuthOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xsutg-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xsutgeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsuGcuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=HandlerE%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsuGc-UyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzEmEuUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzEmE-UyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_xsvUkOUyEeSlgKB3QIu8xA" source="_xobcUOUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xsvUk-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xsv7oOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xsv7ouUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xsv7oeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xsvUlOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsvUkeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsvUkuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xsv7o-UyEeSlgKB3QIu8xA" source="_xobcUOUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xswisOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xswisuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xsxJweUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xsxJwOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xswiseUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsv7pOUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsv7peUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xsxJwuUyEeSlgKB3QIu8xA" source="_xod4kuUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xsxw0OUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xsxw0uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xsxw1OUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xsxw0-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xsxw0eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsxJw-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerE%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsxJxOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_xsyX4OUyEeSlgKB3QIu8xA" source="_xod4kuUyEeSlgKB3QIu8xA" target="_xobcUOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xsy-8OUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xsy-8uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xszmAOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xsy-8-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xsy-8eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xsyX4eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerE%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xsyX4uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 1586]$[0, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzD_AOUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xzD_AeUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:id="_xszmAeUyEeSlgKB3QIu8xA" source="_xod4kuUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_xs0NEOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_xs00IOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_xs1bMOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_xs00IeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xs0NEeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_xszmAuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerE%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xszmA-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQj3wOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_zMblsuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQke0OUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQke0uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQlF4eUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQlF4OUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQke0eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQj3weUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQj3wuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQls8OUyEeSlgKB3QIu8xA" type="OwnedElement" source="_zMblsuUyEeSlgKB3QIu8xA" target="_zMYiYOUyEeSlgKB3QIu8xA">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQls8eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQls8uUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zW030OUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zW030eUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_zQmUAOUyEeSlgKB3QIu8xA" source="_zMYiYOUyEeSlgKB3QIu8xA" target="_zMblsuUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQm7EOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQm7EuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQniIOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQm7E-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQm7EeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQmUAeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerU%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQmUAuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 1586]$[0, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zW031OUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zW031eUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:id="_zQniIeUyEeSlgKB3QIu8xA" source="_zMYiYOUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQoJMOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQowQOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQowQuUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQowQeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQoJMeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQniIuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerU%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQniI-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQpXUOUyEeSlgKB3QIu8xA" source="_zMYiYOUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQp-YOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQp-YuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQqlceUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQqlcOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQp-YeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQpXUeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerU%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQpXUuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQqlcuUyEeSlgKB3QIu8xA" source="_zMblsuUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQrzkOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQrzkuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQsaoeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQsaoOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQrzkeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQqlc-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQqldOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQtBsOUyEeSlgKB3QIu8xA" source="_zMblsuUyEeSlgKB3QIu8xA" target="_zMYiYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQtBs-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQtowOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQtowuUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQtoweUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQtBtOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQtBseUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=HandlerU%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQtBsuUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zW030uUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zW030-UyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_zQuP0OUyEeSlgKB3QIu8xA" source="_zMblsuUyEeSlgKB3QIu8xA" target="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQu24OUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQu24uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQvd8eUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQvd8OUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQu24eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQuP0eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQuP0uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQvd8uUyEeSlgKB3QIu8xA" source="_zMblsuUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQwFAuUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQwsEOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQwsEuUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQwsEeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQwFA-UyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQwFAOUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQwFAeUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_zQxTIOUyEeSlgKB3QIu8xA" source="_zMblsuUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_zQxTI-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_zQxTJeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_zQx6MOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_zQxTJuUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zQxTJOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_zQxTIeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zQxTIuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33oJgOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_3zjh0OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33pXoOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33p-sOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33qlwOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33p-seUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33pXoeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33oJgeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33oJguUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33rM0OUyEeSlgKB3QIu8xA" type="OwnedElement" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_3zlXBOUyEeSlgKB3QIu8xA">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33rM0eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33rM0uUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3-MrkuUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3-Mrk-UyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_33rz4OUyEeSlgKB3QIu8xA" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33tCAOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33tCAuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33tpEeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33tpEOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33tCAeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33rz4eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33rz4uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33wFUOUyEeSlgKB3QIu8xA" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33wFU-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33wFVeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33wsYeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33wsYOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33wFVOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33wFUeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33wFUuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33wsYuUyEeSlgKB3QIu8xA" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33wsZeUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33wsZ-UyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33wsaeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33wsaOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33wsZuUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33wsY-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33wsZOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33xTcOUyEeSlgKB3QIu8xA" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_3zlXBOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33xTc-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33xTdeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33xTd-UyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33xTduUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33xTdOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33xTceUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=HandlerY%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33xTcuUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3-NSoOUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3-NSoeUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_33xTeOUyEeSlgKB3QIu8xA" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33x6gOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33x6guUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33x6hOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33x6g-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33x6geUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33xTeeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33xTeuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33x6heUyEeSlgKB3QIu8xA" source="_3zlXBOUyEeSlgKB3QIu8xA" target="_l-ryAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33x6iOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33x6iuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33yhkeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33yhkOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33x6ieUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33x6huUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerY%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=userAccnt%5Bjcu%5Ename=userAccnt.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33x6h-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_33yhkuUyEeSlgKB3QIu8xA" source="_3zlXBOUyEeSlgKB3QIu8xA" target="_3zjh0OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33yhleUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33yhl-UyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33yhmeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33yhmOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33yhluUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33yhk-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerY%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33yhlOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 1586]$[0, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3-MrkOUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_3-MrkeUyEeSlgKB3QIu8xA" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:id="_33yhmuUyEeSlgKB3QIu8xA" source="_3zlXBOUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_33zIoOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_33zIouUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_33zIpOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_33zIo-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_33zIoeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_33yhm-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerY%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_33yhnOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_9ObPEOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_9KqJYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9Ob2IOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_9Ob2IuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_9OcdMeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_9OcdMOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9Ob2IeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9ObPEeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9ObPEuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_9OcdMuUyEeSlgKB3QIu8xA" type="OwnedElement" source="_9KqJYOUyEeSlgKB3QIu8xA" target="_9Kr-lOUyEeSlgKB3QIu8xA">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9OcdM-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9OcdNOUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9U8t0OUyEeSlgKB3QIu8xA" id="(0.49989608,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9U8t0eUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_9OdEQOUyEeSlgKB3QIu8xA" source="_9KqJYOUyEeSlgKB3QIu8xA" target="_9Kr-lOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9OdrUuUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_9OeSYOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_9OeSYuUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_9OeSYeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9OdrU-UyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9OdrUOUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=HandlerERR%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9OdrUeUyEeSlgKB3QIu8xA" points="[0, 0, 0, -1586]$[0, 1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9U9U4OUyEeSlgKB3QIu8xA" id="(0.49989608,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9U9U4eUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:id="_9Oe5cOUyEeSlgKB3QIu8xA" source="_9KqJYOUyEeSlgKB3QIu8xA" target="_lZO7kOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9OfggOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_9OfgguUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_9OfghOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_9Ofgg-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9OfggeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9Oe5ceUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelEvent%5Bjcu%5Ename=ModelEvent.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9Oe5cuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_9OfgheUyEeSlgKB3QIu8xA" source="_9KqJYOUyEeSlgKB3QIu8xA" target="_kywKYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9OgHkOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_9OgHkuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_9OgHlOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_9OgHk-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9OgHkeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9OfghuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorModel%5Bjcu%5Ename=CalculatorModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9Ofgh-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_9OgHleUyEeSlgKB3QIu8xA" source="_9KqJYOUyEeSlgKB3QIu8xA" target="_eh20EOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9OguoOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_9OguouUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_9OgupOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_9Oguo-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9OguoeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9OgHluUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9OgHl-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_9OgupeUyEeSlgKB3QIu8xA" source="_9Kr-lOUyEeSlgKB3QIu8xA" target="_9KqJYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_9OhVsOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_9OhVsuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_9OhVtOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_9OhVs-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9OhVseUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_9OgupuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerERR%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9Ogup-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 1586]$[0, -1586, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9U9U4uUyEeSlgKB3QIu8xA" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9U9U4-UyEeSlgKB3QIu8xA" id="(0.49989608,1.0)"/>
+  </edges>
+  <edges xmi:id="_-wTRgOUyEeSlgKB3QIu8xA" source="_eh20EOUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wT4kOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wUfoOUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wUfouUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wUfoeUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wT4keUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wTRgeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=CalculatorController%5Bjcu%5Ename=CalculatorController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wTRguUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wVGsOUyEeSlgKB3QIu8xA" source="_vGmYwOUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wVtwOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wVtwuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wVtxOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wVtw-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wVtweUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wVGseUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Handler%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wVGsuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wWU0OUyEeSlgKB3QIu8xA" source="_vGo1AuUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wWU0-UyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_-wWU1eUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wWU1uUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wWU1OUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wWU0eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=CalculatorView%5Bjcu%5Ename=CalculatorView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wWU0uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wW74OUyEeSlgKB3QIu8xA" source="_xobcUOUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wW74-UyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_-wW75eUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wW75uUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wW75OUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wW74eUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wW74uUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wW75-UyEeSlgKB3QIu8xA" source="_xod4kuUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wXi8OUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wXi8uUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wXi9OUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wXi8-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wXi8eUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wW76OUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerE%5Bjsrctype%5Ename=EditEURO%5Bjcu%5Ename=EditEURO.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wW76eUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wXi9eUyEeSlgKB3QIu8xA" source="_zMYiYOUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wYKAOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wYKAuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wYKBOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wYKA-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wYKAeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wXi9uUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerU%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wXi9-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wYKBeUyEeSlgKB3QIu8xA" source="_zMblsuUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wYxEeUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_-wYxE-UyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wYxFOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wYxEuUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wYKBuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=EditUSD%5Bjcu%5Ename=EditUSD.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wYxEOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wZYIOUyEeSlgKB3QIu8xA" source="_3zjh0OUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wZYI-UyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_-wZYJeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wZYJuUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wZYJOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wZYIeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wZYIuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wZ_MOUyEeSlgKB3QIu8xA" source="_3zlXBOUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wZ_M-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wZ_NeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wamQeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wamQOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wZ_NOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wZ_MeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=HandlerY%5Bjsrctype%5Ename=EditYUAN%5Bjcu%5Ename=EditYUAN.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wZ_MuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wamQuUyEeSlgKB3QIu8xA" source="_9KqJYOUyEeSlgKB3QIu8xA" target="_-tIowOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wamReUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_-wamR-UyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wbNUOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wamRuUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wamQ-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Generalization" href="mmi:///#jgen%5Bjsrctype%5Ename=errWindow%5Bjcu%5Ename=errWindow.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Generalization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wamROUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wbNUeUyEeSlgKB3QIu8xA" source="_-tIowOUyEeSlgKB3QIu8xA" target="_lGOgAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wbNVOUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wbNVuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wbNWOUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wbNV-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wbNVeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wbNUuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wbNU-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wbNWeUyEeSlgKB3QIu8xA" source="_-tIowOUyEeSlgKB3QIu8xA" target="_lqj8IOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wb0YOUyEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_-wb0YuUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wb0Y-UyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wb0YeUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wbNWuUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=ModelListener%5Bjcu%5Ename=ModelListener.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wbNW-UyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wb0ZOUyEeSlgKB3QIu8xA" source="_-tIowOUyEeSlgKB3QIu8xA" target="_kctB4OUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wb0Z-UyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wb0aeUyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wcbceUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wcbcOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wb0aOUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wb0ZeUyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=AbstractModel%5Bjcu%5Ename=AbstractModel.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wb0ZuUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_-wcbcuUyEeSlgKB3QIu8xA" source="_-tIowOUyEeSlgKB3QIu8xA" target="_ex7QYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_-wcbdeUyEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_-wcbd-UyEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_-wcbeeUyEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_-wcbeOUyEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-wcbduUyEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_-wcbc-UyEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_-wcbdOUyEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_Am0HMOUzEeSlgKB3QIu8xA" source="_eORJsOUyEeSlgKB3QIu8xA" target="_AmmEwOUzEeSlgKB3QIu8xA">
+    <children xmi:id="_Am0HM-UzEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_Am0HNeUzEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_Am0HN-UzEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_Am0HNuUzEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Am0HNOUzEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Am0HMeUzEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=AbstractController%5Bjcu%5Ename=AbstractController.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Am0HMuUzEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_Am0uQOUzEeSlgKB3QIu8xA" source="_ex7QYOUyEeSlgKB3QIu8xA" target="_AmmEwOUzEeSlgKB3QIu8xA">
+    <children xmi:id="_Am0uQ-UzEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_Am0uReUzEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_Am0uR-UzEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_Am0uRuUzEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Am0uROUzEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Am0uQeUzEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Am0uQuUzEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_Am0uSOUzEeSlgKB3QIu8xA" source="_-tIowOUyEeSlgKB3QIu8xA" target="_AmmEwOUzEeSlgKB3QIu8xA">
+    <children xmi:id="_Am1VUOUzEeSlgKB3QIu8xA" type="NameLabel">
+      <children xmi:id="_Am1VUuUzEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_Am1VU-UzEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Am1VUeUzEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Am0uSeUzEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:InterfaceRealization" href="mmi:///#jimpl%5Bjsrctype%5Ename=JFrameView%5Bjcu%5Ename=JFrameView.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.InterfaceRealization"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Am0uSuUzEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_Am1VVOUzEeSlgKB3QIu8xA" source="_AmmEwOUzEeSlgKB3QIu8xA" target="_lGOgAOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_Am1VV-UzEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_Am1VWeUzEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_Am18YOUzEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_Am1VWuUzEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Am1VWOUzEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Am1VVeUzEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Model%5Bjcu%5Ename=Model.java%5Bjpack%5Ename=simpleAccount.model%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Am1VVuUzEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+  <edges xmi:id="_Am18YeUzEeSlgKB3QIu8xA" source="_AmmEwOUzEeSlgKB3QIu8xA" target="_ex7QYOUyEeSlgKB3QIu8xA">
+    <children xmi:id="_Am18ZOUzEeSlgKB3QIu8xA" type="KindLabel">
+      <children xmi:id="_Am18ZuUzEeSlgKB3QIu8xA" type="Stereotype"/>
+      <children xmi:id="_Am18aOUzEeSlgKB3QIu8xA" type="Kind"/>
+      <children xmi:id="_Am18Z-UzEeSlgKB3QIu8xA" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Am18ZeUzEeSlgKB3QIu8xA" y="-186"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_Am18YuUzEeSlgKB3QIu8xA" fontName="Segoe UI" lineWidth="1" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=View%5Bjcu%5Ename=View.java%5Bjpack%5Ename=simpleAccount.view%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=Controller%5Bjcu%5Ename=Controller.java%5Bjpack%5Ename=simpleAccount.controller%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=simAccount%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Am18Y-UzEeSlgKB3QIu8xA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+  </edges>
+</notation:Diagram>
